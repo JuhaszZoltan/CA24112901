@@ -15,4 +15,4 @@ for (int i = 0; i < 10; i++)
 
 Console.WriteLine("Hello fucked up World!");
 
-int szam = 34;
+int szam = 12;
